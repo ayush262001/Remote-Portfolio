@@ -1,34 +1,73 @@
 {
-  "job": "Frontend Developer",
-  "name": "John Doe",
-  "desc": "The traveler of this path, a web designer in Turkey.",
-  "aboutDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-  "email": "john.doe@example.com",
+  "job": "Software Development Engineer",
+  "name": "Ayush Gour",
+  "desc": "The traveler of this path, a software development engineer in India.",
+  "aboutDesc": "Experienced Software Engineer with 2 years in MERN stack development, cloud computing, and automation. Skilled in JavaScript, React, Node.js, AWS, and microservices architecture. Developed and deployed scalable web applications, resolving 200+ cloud issues at AWS. Successfully delivered multiple projects, enhancing performance, security, and user experience.",
+  "email": "ayushasdeveloper@gmail.com",
   "status": "on",
-  "hireMeLink": "https://twitter.com/iamkaanayyildiz",
+  "hireMeLink": "https://www.linkedin.com/in/ayush-gour-a317541a9/",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Benfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-name": "Ayush Portfolio",
+      "project-desc": "React + Tailwind Portfolio",
+      "link": "",
+      "description": "Hey👋 This is my portfolio project showcasing my skills and expertise. Take a look and feel free to connect with me!"
+    },
+    {
+      "project-name": "Health Care Solution Architect",
+      "project-desc": "AWS Services",
+      "link": "https://aws.amazon.com/",
+      "description": "Designed and implemented a scalable architecture for the healthcare industry using AWS services. As an AWS Certified Solutions Architect Associate, I specialize in cloud solutions that enhance security, efficiency, and performance. Check out my work and connect with me!"
+    },
+    {
+      "project-name": "Alcohol Detection Portal",
+      "project-desc": "React + Node + Tailwind + AWS",
+      "link": "https://www.starkenn.com/",
+      "description": "Built an Alcohol Detection Portal using advanced technology to enhance safety and compliance. This project showcases my expertise in cloud solutions and real-time data processing. Check it out and connect with me!"
+    },
+    {
+      "project-name": "Fleet Management Portal",
+      "project-desc": "React + Node + Tailwind + AWS + MQTT + Socket",
+      "link": "https://www.starkenn.com/",
+      "description": "Developed a Fleet Management Portal to optimize vehicle tracking, route planning, and operational efficiency using scalable cloud solutions."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Amazon Web Services",
+      "role": "Cloud Support Associate | 8 months",
+      "link": "https://aws.amazon.com/",
+      "description": "`Architected and deployed scalable, secure, and high-performance cloud solutions on AWS, optimizing cost and reliability. Designed robust infrastructures for the healthcare industry, ensuring compliance and efficiency. AWS Certified Solutions Architect Associate with expertise in cloud-native technologies and best practices.`"
+    },
+    {
+      "company": "Starkenn Technologies",
+      "role": "Full Stack Developer | 1 year 3 months",
+      "link": "https://www.starkenn.com/",
+      "description": "`Engineered cutting-edge IoT and telematics solutions at Starkenn Technologies, enhancing fleet management efficiency. Optimized cloud architecture for scalability, security, and real-time data processing. Spearheaded AWS-driven innovations to improve system reliability and performance.`"
+    }
+  ],
+  "certifications":[
+    {
+      "name": "HackerRank Java",
+      "link": "https://www.hackerrank.com/certificates/c29f5b8fa4e3"
+    },
+    {
+      "name": "HackerRank React",
+      "link": "https://www.hackerrank.com/certificates/d050e63647a8"
+    },
+    {
+      "name": "HackerRank Problem Solving",
+      "link": "https://www.hackerrank.com/certificates/554e44624704"
+    },
+    {
+      "name": "AWS Solution Architect Associate",
+      "link": "https://www.credly.com/badges/044c7420-889f-4560-b849-a1aee8fc8754"
     }
   ],
   "social": [
     {
-      "icon": "FaXTwitter",
-      "link": "https://x.com"
-    },
-    {
-      "icon": "FaInstagram",
-      "link": "https://instagram.com"
-    },
-    {
-      "icon": "FaGithub",
-      "link": "https://github.com"
-    },
-    {
       "icon": "FaLinkedinIn",
-      "link": "https://linkedin.com"
+      "link": "https://www.linkedin.com/in/ayush-gour-a317541a9/"
     }
   ]
 }

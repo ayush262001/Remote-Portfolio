@@ -9,6 +9,14 @@ export default function Profile() {
   const workStatusClass = configData.status == "on" ? "w-1.5 h-1.5 bg-[#109d5c] rounded-full" : "w-1.5 h-1.5 bg-[#f74d4d] rounded-full"
   const workStatusText = configData.status == "on" ? "avaılable for work" : "busy"
 
+  // const handleDownload = () => {
+  //   const link = document.createElement("a");
+  //   link.href = Resume;
+  //   link.download = "Resume.pdf";
+  //   document.body.appendChild(link);
+  //   link.click();
+  //   document.body.removeChild(link);
+  // };
   return (
     <>
       <div className="flex items-center justify-between px-7 py-7">
